@@ -1,4 +1,6 @@
-# Docsfox Documentation
+# Docsfox Introduction
+
+[Docsfox Documentation](Docsfox.md)
 
 ## Brief description of Docsfox
 
