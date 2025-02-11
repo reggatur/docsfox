@@ -3,7 +3,7 @@ import os
 import csv
 import re  # Import regex module
 
-DATA_FILE_STORAGE = os.path.join(os.path.dirname(__file__), "DateFileName.txt")
+DATA_FILE_STORAGE = os.path.join(os.path.dirname(__file__), "DataFileName.txt")
 
 def save_last_used_file(csv_path):
     """ Save the last used CSV file path to a local file. """
