@@ -1,14 +1,6 @@
-
-[[Dev document assembly]]
-[[Docsfox marketing]]
+# Docsfox Documentation
 ## Free, secure document assembly software
 
-## Short description
-Docsfox is an efficient, free application used to create document templates and assemble customized documents. Unlike more powerful, expensive commercial document generators, Docsfox has a short learning curve for creating and using templates. 
-
-No need to trust AI or store confidential client information with other companies. Your templates, client data, and documents can remain on your computer or server. You have the option to use Docsfox with Microsoft 365, Google Docs, and other cloud storage services.
-
-# Docsfox User Manual
 ## Summary
 
 Docsfox is a free, secure, open source application used to assemble customized documents.
@@ -43,10 +35,15 @@ Docsfox offers a free, simple alternative. It lacks advanced capabilities of com
 - Free for commercial and personal use
 - Open source
 - Unlimited templates, documents, users
+- Works with any word processor and editor
+- Compatible with .DOCX, .TXT, .MD, .HTML, .ODT and more
+- Store templates and documents locally or online
 - Simple, assisted template creation
-- Variables
+- Variables - fill in names, addresses, anything
 - Optional clauses
 - Enter a client's data once, generate many documents
+- Use a spreadsheet (.CSV) for the field names and text to insert
+- Save a reusable spreadsheet for each client, matter or project
 ### Key limitations
 - MS Windows only
 - Requires installation of free, open source Notepad++
@@ -66,17 +63,7 @@ Docsfox coding is fully transparent. Your data and template text stay on your co
 Docsfox saves you time and prevents drafting mistakes so easy to make when reusing existing documents.
 
 
-### Features of Docsfox
-- Completely free for commercial and personal use
-- Uses free, open source Notepad++ software for MS Windows, any version
-- Works with any word processor application on your computer
-- Works with online document editors
-- Fill in names, addresses, and anything you choose
-- Like HotDocs, it inserts text into fields in your template document
-- Create templates with any software in any file type: Word, HTML, TXT, online
-- Easily insert fields in your templates
-- Use a spreadsheet (.CSV) for the field names and text to insert
-- Save a reusable spreadsheet for each client, matter or project
+
 
 
 
@@ -94,6 +81,7 @@ Docsfox saves you time and prevents drafting mistakes so easy to make when reusi
 
 ## Getting started
 ## Support
+### Planned:
 
 | Online manual | YES  |
 | ------------- | ---- |
@@ -105,10 +93,11 @@ Docsfox saves you time and prevents drafting mistakes so easy to make when reusi
 | Email support | No   |
 | Phone support | No   |
 | Support cost  | Zero |
+
 ## Roadmap
-Videos
-Screenshots
-Forum
-Copy output text to clipboard
-Prompt for empty variable value
-Automatically create a data file with variables from a template
+- Videos
+- Screenshots
+- Forum
+- Copy output text to clipboard
+- Prompt for empty variable value
+- Automatically create a data file with variables from a template
