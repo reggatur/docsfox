@@ -1,6 +1,8 @@
 # docsfox-npp
 Docsfox - a Notepad++ Python plugin - Document assembly software - create and use template documents
 
+[Docsfox Documentation](docs/Docsfox.md)
+
 Docsfox is an efficient, free application used to create document templates and assemble customized documents. Unlike more powerful, expensive commercial document generators, Docsfox has a short learning curve for creating and using templates.
 
 Docsfox works with all text editor software and files including Microsoft Word, plain text, HTML, Markdown, Microsoft 365, Google Docs, web forms, and more.
