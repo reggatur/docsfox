@@ -69,25 +69,30 @@ def replace_text_in_notepad(replacements):
 
     notepad.messageBox("Find & Replace completed successfully!", "Success")
 
+import re
+
 def advanced_replacement(text, tf_rows):
     """ Handles replacements where column C is TF/tf, supporting multi-line text. """
     for find_text, action in tf_rows:
-        # Correctly format the start and end delimiters with proper escaping
-        start_delim = re.escape("<<{}>>".format(find_text))
-        end_delim = re.escape("<<{}/>>".format(find_text))
+        # Define the correctly escaped start and end delimiters
+        start_delim = "<<{}>>".format(re.escape(find_text))
+        end_delim = "<<{}/>>".format(re.escape(find_text))  # Properly escaping the `/`
 
-        # Regex pattern to find content between the delimiters (across multiple lines)
-        pattern = r"{}(.*?){}".format(start_delim, end_delim)
+        # Regex pattern to find everything inside delimiters, including trailing spaces/newlines
+        pattern = r"{}([\s\S]*?){}".format(start_delim, end_delim)  # `[\s\S]` ensures it captures all characters including newlines
 
         def replace_match(match):
-            inner_text = match.group(1)  # Extract text inside delimiters
-            if action == 't':  # Keep inner text, remove delimiters
-                return inner_text.strip()
-            elif action == 'f':  # Remove inner text and delimiters
+            inner_text = match.group(1)  # Extract the text between the delimiters
+            
+            if action.lower().startswith('t'):  
+                # Remove delimiters, keeping all spaces and newlines in the text
+                return inner_text
+            elif action.lower().startswith('f'):  
+                # Remove everything, including trailing spaces and newlines
                 return ""
-            return match.group(0)  # Default case (should never hit this)
+            return match.group(0)  # Fallback (shouldn't be hit)
 
-        # Apply regex replacement
+        # Apply regex replacement with multi-line handling
         text = re.sub(pattern, replace_match, text, flags=re.DOTALL)
 
     return text
