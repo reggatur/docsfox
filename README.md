@@ -1,6 +1,8 @@
 # Docsfox
 Document assembly software
+
 Create and fill in templates to create documents
+
 Docsfox - Python plugins for LibreOffice Writer and Notepad++
 
 Bonus feature: Perform multiple Search and Replace operations
