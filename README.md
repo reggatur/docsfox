@@ -1,5 +1,9 @@
-# docsfox-npp
-Docsfox - a Notepad++ Python plugin - Document assembly software - create and use template documents
+# Docsfox
+Document assembly software
+Create and fill in templates to create documents
+Docsfox - Python plugins for LibreOffice Writer and Notepad++
+
+Bonus feature: Perform multiple Search and Replace operations
 
 [Docsfox Documentation](docs/Docsfox.md)
 
@@ -22,21 +26,27 @@ Document assembly applications generally require expensive monthly subscriptions
 
 ## What is special about Docsfox?
 
-Docsfox is an efficient, free document assembly application. 
+Docsfox is an efficient, free, open source document assembly application. 
 
 Docsfox:
 - Is free for commercial and personal use
 - Has a short learning curve
 - Installs on Microsoft Windows
-- Works a range of word processing software
-- Is compatible with MS Word, MS 365, Outlook, Google Docs, Gmail and more
+- Works with a range of word processing software
+- Is compatible with:
+  - MS Word, MS 365, Outlook
+  - LibreOffice Writer, Notepad++
+  - Google Docs, Gmail and more
 - Works with .DOCX, .TXT, .ODT, .HTML, .MD, .CSV and more.
 
 ## What risks does Docsfox reduce?
 
-With Web-based document generators, confidential and proprietary client information:
-- Must be transferred across the internet
-- Is stored on third-party servers exposed to the internet
-- May be ingested and store in AI systems of fourth parties
+Docsfox avoids the risks of Web-based and AI document generators.
 
-No need to trust AI or store confidential client information with other companies. Your templates, client data, and documents can remain on your computer or server. You have the option to use Docsfox with Microsoft 365, Google Docs, and other cloud storage services.
+Your confidential client information and proprietary work is:
+- Not transferred across the internet
+- Not ingested by Big Tech AI and LLMs
+- Not stored on third-party servers exposed to the internet
+- Under your full control
+
+No need to trust AI or store confidential client information with other companies. Your templates, client data, and documents can remain on your computer or server. If you like, you have the option to use Docsfox with Microsoft 365, Google Docs, and other cloud storage services.
