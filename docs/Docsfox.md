@@ -7,11 +7,11 @@ Docsfox is a free, secure, open source application used to assemble customized d
 
 **Free:** Docsfox is completely free for commercial and personal use.
 
-In contrast, other document assembly services are powerful and expensive. They cost you time with long learning curves and numerous steps to create document templates. They cost you money every month with costly subscriptions. 
+In contrast, other document assembly services are expensive and bloated. They cost you time with long learning curves and numerous steps to create document templates. They take your money every month with costly subscriptions. 
 
 **Secure:** Docsfox can work entirely on your computer. It is open source, so you can see it has no code that connects to the internet. You can keep your templates and generated documents local. Optionally, you can use Docsfox with online documents, for example, in Microsoft 365 or Google Docs.
 
-In contrast, online document assembly services raise concerns about the privacy of your client information and document content. Hosted in the cloud, your client information and documents are subject to security breaches at the vendor. AI features present other privacy risks.
+In contrast, online document assembly services raise concerns about the privacy of your client information and document content. They host them in the cloud where they are exposed to security breaches at the vendor. AI built into online services presents other privacy risks.
 
 **Easy:** Learning and using Docsfox are quick and easy. Create and reuse templates from existing documents as needed, undeterred by the prospect of grappling with complexity.
 
@@ -46,7 +46,7 @@ Docsfox offers a free, simple alternative. It lacks advanced capabilities of com
 - Save a reusable spreadsheet for each client, matter or project
 ### Key limitations
 - MS Windows only
-- Requires installation of free, open source Notepad++
+- Requires installation of free, open source LibreOffice Writer or Notepad++
 - No conditional logic
 ### Variables
 
@@ -56,16 +56,11 @@ Like other document assembly applications, Docsfox automates the creation of doc
 Docsfox allows you to have optional and alternative clauses. You can easily choose to include or exclude any of the clauses in your template.
 ### Safe and private
 
-Completely secure and private, Docsfox operates entirely on your computer. Your text and client information can be kept entirely on you computer.  It does not use AI that sends your content across the internet and may expose it to other users of the AI service.
+Completely secure and private, Docsfox operates entirely on your computer. Your text and client information can be kept completely private.  Docsfox does not use AI that sends your content across the internet and may expose it to other users of the AI service.
 
 Docsfox coding is fully transparent. Your data and template text stay on your computer
 
 Docsfox saves you time and prevents drafting mistakes so easy to make when reusing existing documents.
-
-
-
-
-
 
 - Works with any word processor application on your computer, including:
 	- MS Word
@@ -98,6 +93,5 @@ Docsfox saves you time and prevents drafting mistakes so easy to make when reusi
 - Videos
 - Screenshots
 - Forum
-- Copy output text to clipboard
 - Prompt for empty variable value
 - Automatically create a data file with variables from a template
