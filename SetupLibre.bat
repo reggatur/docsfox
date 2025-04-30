@@ -4,7 +4,7 @@
 :: If this Setup file fails to run, you many need to:
 ::    Right-click it in Windows File Explorer.
 ::    Check the box: Unblock
-:: %~dp0
+:: ------------------------------------------
 setlocal
 
 set "CODEFILE=docsfoxLO.py"
@@ -30,7 +30,7 @@ if exist "%TARGET_DIR%\" (
 echo .
 echo .
 echo .   This setup program creates folders for
-echo .   the Docsfox code file, docsfoxLO.py
+echo .   the Docsfox code file, docsfoxLO.py,
 echo .   for use with LibreOffice Writer.
 echo .
 echo .   To quit, close this window, or
