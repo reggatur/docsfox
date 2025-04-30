@@ -1,5 +1,5 @@
 @echo off
-:: SetupDocsfox.bat - Create folders for the Docsfox code file.
+:: SetupLibre.bat - Create folders for the Docsfox code file for LibreOffice
 :: Copy docsfoxLO.py to C:\Users\%username%\AppData\Roaming\LibreOffice\4\user\Scripts\python\
 :: If this Setup file fails to run, you many need to:
 ::    Right-click it in Windows File Explorer.
