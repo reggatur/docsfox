@@ -10,10 +10,9 @@ setlocal
 set "CODEFILE=docsfoxLO.py"
 if exist "%~dp0\%CODEFILE%" (
     echo .
-    echo .   LibreOffice is installed.
 ) else (
     echo .   docsfoxLO.py needs to be copied from the 
-    echo .   Docsfox ZIP into the same place as SetupDocsfox.bat
+    echo .   Docsfox ZIP into the same place as SetupLibre.bat
     pause
     exit
 )
@@ -21,7 +20,7 @@ if exist "%~dp0\%CODEFILE%" (
 set "TARGET_DIR=%APPDATA%\LibreOffice\4\user"
 
 if exist "%TARGET_DIR%\" (
-    echo Folder exists: %TARGET_DIR%
+    echo .
 ) else (
     echo .   LibreOffice is not installed.
     echo .   Please install LibreOffice and try again.
@@ -30,7 +29,7 @@ if exist "%TARGET_DIR%\" (
 )
 echo .
 echo .
-echo .   This installer program creates folders for
+echo .   This setup program creates folders for
 echo .   the Docsfox code file, docsfoxLO.py
 echo .   for use with LibreOffice Writer.
 echo .
@@ -47,7 +46,7 @@ if exist "%TARGET_DIR%\Scripts\python\docsfoxLO.py" (
     echo .   SUCCESS!
 ) else (
     echo .
-    echo .   This setup did not complete.
+    echo .   This setup program did not complete.
 )
 echo .
 echo .
