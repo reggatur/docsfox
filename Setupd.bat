@@ -3,7 +3,7 @@ setlocal
 
 set "LIBRE_DIR=%APPDATA%\LibreOffice\4\user"
 set "LIBRE_CODE"=docsfoxLO.py"
-set "NP_DIR=%APPDATA%\Notepad++\plugins\config\PythonScript\scripts"
+set "NP_DIR=%APPDATA%\Notepad++\plugins\config"
 set "NP_CODE=docsfoxNP.py"
 set "TRUE="
 :: Check for existing installation of Docsfox LibreOffice plugin.
@@ -174,13 +174,14 @@ echo .
 echo .
 echo . Adding the Docsfox plugin to Notepad++
 echo .
-echo .
 pause
-copy %~dp0\docsfoxNP.py "%NP_DIR%"
+if not exist %NP_DIR%\PythonScript md %NP_DIR%\PythonScript
+if not exist %NP_DIR%\PythonScript\scripts md %NP_DIR%\PythonScript\scripts
+copy %~dp0docsfoxNP.py "%NP_DIR%\PythonScript\scripts"
 echo .
-if exist %NP_DIR%\docsfoxNP.py echo . Success! The plugin was added to Notepad++.
+if exist %NP_DIR%\PythonScript\scripts\docsfoxNP.py echo . Success! The plugin was added to Notepad++.
 echo .
-if not exist %NP_DIR%\docsfoxNP.py echo . Docsfox failed to add the Notepad++ plugin.
+if not exist %NP_DIR%\PythonScript\scripts\docsfoxNP.py echo . Docsfox failed to add the Notepad++ plugin.
 echo .
 echo .
 pause
