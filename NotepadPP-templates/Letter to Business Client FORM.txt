@@ -1,0 +1,29 @@
+
+SecureMyFirm Inc.
+3336 Glenhurst Ave.
+Minneapolis, MN 55416
+Tel:	952.922.1120
+Email:	info@securemyfirm.com
+
+<<DateOfDocument>>
+
+<<ClientNameFull>><<OptionClientTitle>>
+<<ClientTitle>><<OptionClientTitle/>>
+<<ClientOrg>>
+<<ClientAddress>><<OptionAddress2>>
+<<ClientAddress2>><<OptionAddress2/>>
+<<ClientCity>>, <<ClientState>> <<ClientZipcode>>
+
+Re:	<<Subject>><<OptionOurFileNo>>
+	Our File No.: <<OurFileNo>><<OptionOurFileNo/>>
+
+Dear <<ClientMrMs>> <<ClientLast>>:
+
+
+
+Sincerely,
+
+
+
+<<SenderNameFull>>
+<<SenderTitle>>

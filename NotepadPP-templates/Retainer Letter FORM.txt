@@ -1,0 +1,31 @@
+<<ClientNameFull>><<OptionClientTitle>>
+<<ClientTitle>><<OptionClientTitle/>>
+<<ClientOrg>>
+<<ClientAddress>><<OptionAddress2>>
+<<ClientAddress2>><<OptionAddress2/>>
+<<ClientCity>>, <<ClientState>> <<ClientZipcode>>
+
+May 15, 2025
+
+Re:	<<Subject>><<OptionOurFileNo>>
+	Our File No.: <<OurFileNo>><<OptionOurFileNo/>>
+
+Dear <<ClientMrMs>> <<ClientLast>>:
+
+I am writing to confirm <<OptionConfirmMeeting>>our meeting in our office on <<MeetingDate>> and <<OptionConfirmMeeting/>>that you have retained our firm to act on your behalf with respect to <<MatterDescription>>. 
+
+Enclosed is the following document. We ask that you review it carefully: 
+
+	Retainer Agreement, in duplicate<<OptionNewClient>>
+Information for New Clients<<OptionNewClient/>>
+	
+Please initial, sign and return one copy of the Retainer Agreement to us, together with a retainer in the amount of <<Retainer>> as set out in the Agreement.  Please keep one copy of the Retainer Agreement for your records.
+
+Thank you for the opportunity to serve you.
+
+Sincerely,
+
+
+
+<<SenderNameFull>><<OptionSenderTitle>>
+<<SenderTitle>><<OptionSenderTitle/>>

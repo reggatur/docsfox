@@ -1,0 +1,77 @@
+
+Subcontract Agreement
+
+<<DateOfDocument>>
+
+This Agreement is made between <<SubCoName>> ("<<SubCoAbbr>>"), with a principal place of business at <<SubCoAddrOneLine>>, and <<OurFirmName>> ("<<OurFirmAbbr>>"), with a principal place of business at <<OurFirmAddrOneLine>>.
+
+Services: <<SubCoAbbr>> agree to use <<SubCoAbbr>>’s best efforts to render to <<OurFirmAbbr>>’s clients certain consulting services that <<SubCoAbbr>> and <<OurFirmAbbr>> agree to in advance.
+
+Confidentiality: <<SubCoAbbr>> recognize that client information to which <<SubCoAbbr>> may have access may be subject to attorney-client privilege or work product doctrine and may be highly confidential. As an expert hired to provide services to clients, <<SubCoAbbr>> are obligated not to disclose any such information to any third party. In addition, <<SubCoAbbr>> will use reasonable means, not less than those used to protect <<SubCoAbbr>>’s own proprietary information, to safeguard any and all client materials. Without advance written consent from client, <<SubCoAbbr>> will not show or otherwise disclose any portion of the materials or their contents to anyone other than employees and subcontractors of <<OurFirmAbbr>>. <<SubCoAbbr>> shall ensure that <<SubCoAbbr>>’s employees and subcontractors, if any, have signed Confidentiality Agreements in favor of clients on terms at least as favorable to clients as these terms. <<SubCoAbbr>> are not barred from making legally required disclosures. <<SubCoAbbr>> will make no copies of the materials in any form without advance permission from <<OurFirmAbbr>>, will return all client materials and any copies promptly upon <<OurFirmAbbr>>’s request, and will securely delete all client materials and information from all media subject to <<SubCoAbbr>>’s control upon <<OurFirmAbbr>>’s request.
+
+Fees: <<OurFirmAbbr>> will agree in advance with its clients on the fees to be paid to <<OurFirmAbbr>> for consulting services <<SubCoAbbr>> rendered. <<OurFirmAbbr>> is responsible for billing its clients on a monthly basis for <<SubCoAbbr>>’s services and for collecting fees from the clients.
+
+Expenses: <<SubCoAbbr>> shall be responsible for all expenses <<SubCoAbbr>> incurs while performing services under this Agreement, except for the expenses that <<OurFirmAbbr>> or clients of <<OurFirmAbbr>> approve in writing in advance.
+
+Intellectual Property, Trade Secrets and Confidential Information: <<SubCoAbbr>> and <<OurFirmAbbr>> mutually agree to protect and honor each other’s trademarks, copyrights, licenses, intellectual property rights, trade secrets and confidential information. The work <<SubCoAbbr>> do and the intellectual property <<SubCoAbbr>> create or substantially contribute to under this contract are works for hire for <<OurFirmAbbr>> and not works for hire for the clients of <<OurFirmAbbr>>, except that <<SubCoAbbr>> retain a non-exclusive, royalty-free, sublicensable, worldwide license to intellectual property <<SubCoAbbr>> create or substantially contribute to. <<OurFirmAbbr>> clients receive non-exclusive, restricted licenses to such property from <<OurFirmAbbr>>.
+
+<<Choice1NonExclusive>>Non-Exclusive:  This is a non-exclusive agreement as to <<OurFirmAbbr>> and <<SubCoAbbr>>. Both parties may enter into similar agreements with other parties.<<Choice1NonExclusive/>><<Choice2Exclusive>>Exclusive:  This is an exclusive agreement as to <<OurFirmAbbr>> and <<SubCoAbbr>>. <<OurFirmAbbr>> may not enter into similar agreements with other parties.<<Choice2Exclusive/>>
+
+Term of Agreement:  This Agreement will become effective when signed by both parties and will terminate on the earlier of:
+•	The date on which the parties mutually agree to terminate the agreement, or
+•	The date on which one party with or without cause gives written notice to the other of termination at will.
+Notwithstanding the termination of this Agreement, <<SubCoAbbr>> shall be entitled to full payment for services properly performed and expenses properly incurred before giving or receiving of actual notice of termination. The Confidentiality section of this Agreement shall survive termination of this Agreement.
+
+Independent Contractor Status: <<SubCoAbbr>> is an independent contractor, not an employee of <<OurFirmAbbr>>. <<SubCoAbbr>>’s employees or subcontractors are not employees or subcontractors of <<OurFirmAbbr>>. <<SubCoAbbr>> and <<OurFirmAbbr>> agree to the following rights consistent with an independent contractor relationship.
+•	<<SubCoAbbr>> has the right to perform services for others during the term of this Agreement.
+•	<<SubCoAbbr>> has the sole right to control and direct the means, manner and method by which the services required under this Agreement will be performed.
+•	<<SubCoAbbr>> has the right to hire assistants as subcontractors, or to use employees to provide the services required by this Agreement.
+•	<<SubCoAbbr>> or <<SubCoAbbr>>’s employees or subcontractors shall perform the services required by this Agreement.
+•	<<OurFirmAbbr>> shall not require <<SubCoAbbr>> or <<SubCoAbbr>>’s employees or subcontractors to devote full time to performing the services required by this Agreement.
+•	Neither <<SubCoAbbr>> nor <<SubCoAbbr>>’s employees or subcontractors are eligible to participate in any employee pension, health, vacation pay, sick pay or other fringe benefit plan of <<OurFirmAbbr>>.
+
+Local, State and Federal Taxes:  <<SubCoAbbr>> shall pay all income taxes and FICA (Social Security and Medicare taxes) incurred while performing services under this Agreement. <<OurFirmAbbr>> will not:
+•	Withhold FICA from <<SubCoAbbr>> payments or make FICA payments on <<SubCoAbbr>>’s behalf,
+•	Make state or federal unemployment compensation contributions on <<SubCoAbbr>>’s behalf, or
+•	Withhold state or federal income tax from <<SubCoAbbr>>’s payments.
+
+Resolving Disputes: If a dispute arises under this Agreement, the parties agree to first try to resolve the dispute with the help of a mutually agreed-upon mediator in <<OurFirmCounty>> <<OurFirmState>>. Any costs and fees of any mediator and arbitrator shall be shared equally by the parties. If it proves impossible to arrive at a mutually satisfactory solution through mediation, the parties agree to submit the dispute to a mutually agreed-upon arbitrator in <<OurFirmCounty>> <<OurFirmState>>. Judgment upon the award rendered by the arbitrator may be entered in any court having jurisdiction to do so. The arbitrator will allocate costs of arbitration, excluding attorney fees. The parties shall bear their own attorneys fees.
+
+Notices:  All notices and other communications in connection with this Agreement shall be in writing and shall be considered given as follows:
+•	When delivered personally to the recipient's address as stated on this Agreement
+•	Three days after being deposited in the United States mail, with postage prepaid to the recipient's address as stated on this Agreement, or
+•	When sent by Email to the last Email address of the recipient known to the person giving notice.
+Notice via Email is effective upon receipt provided that a duplicate copy of the notice is promptly given by first class mail.
+At the signing of this agreement, <<OurFirmAbbr>>’s contact information is:
+
+<<OurFirmSignerFullName>>
+<<OurFirmName>>
+<<OurFirmAddrOneLIne>>
+
+Tel: <<OurFirmTel>>
+Email: <<OurFirmSignerEmail>> 
+Web:  <<OurFirmWebsite>> 
+
+No Partnership:  This Agreement does not create a partnership relationship. Neither party has authority to enter into contracts on the other's behalf.
+
+Governing Law: This Agreement shall be subject to and construed according to the laws of the State of <<OurFirmState>>.
+
+Validity: In the event that any one or more of the provisions of this Agreement shall for any reason be held to be invalid, such invalidity shall not affect any other provision of this Agreement. 
+
+Entire Agreement: This Agreement contains the entire agreement of the parties and no oral statements or prior agreements shall have any force and effect. <<OurFirmAbbr>> may modify the terms of this agreement in writing by giving 10 days written notice, but modifications cannot alter the amounts due and owing to <<SubCoAbbr>> for services rendered before the effective date of the modifications.
+
+<<SubCoName>>
+
+By:	________________________
+<<SubCoSignerFullName>>
+
+Title:	<<SubCoSignerTitle>>
+
+Date:_______________________
+
+<<OurFirmName>>
+
+By:	________________________
+	<<OurFirmSignerFullName>>
+
+Title: <<OurFirmSignerTitle>>
