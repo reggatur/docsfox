@@ -1,0 +1,101 @@
+VARIABLE,TEXT,Type,Value,Description
+DateOfDocument,"May 30, 2025",V,,
+ClientNameFull,Andy Heron,V,,
+ClientTitle,President,V,,
+ClientFirst,Andy,V,,
+ClientLast,Heron,V,,
+ClientOrg,Heron Unlimited,V,,
+ClientAddress,1234 Main Street,V,,
+ClientAddress2,Suite 820,V,,
+OptionClientAddress2,,TF,T,
+ClientCity,Minneapolis,V,,
+ClientState,MN,V,,
+ClientZipcode,55401,V,,
+ClientMrMs,Mr.,V,,
+ClientCounty,Hennepin,V,,
+ClientStateLong,Minnesota,V,,
+ClientSpouseFull,Pat J. Heron,V,,
+,,,,
+LETTERS,,,,
+Subject,Request for property information,V,,Re: line
+MatterDescription,Buy-sell agreements for Heron Unlimited,V,,
+OurFileNo,H-240288,V,,
+,,,,
+OptionClientTitle,,TF,T,
+OptionAddress2,,TF,T,
+Choice1First,,TF,T,First Name
+Choice2MrMsLast,,TF,F,OR Mr/Ms Last Name
+OptionOurFileNo,,TF,T,
+,,,,
+,,,,
+SenderNameFull,Wells H. Anderson,V,,
+SenderTitle,Partner,V,,Partner/Associate Attorney/Paralegal/Legal Assistant
+SenderOrg,Active Practice LLC,V,,
+OptionSenderTitle,,TF,T,
+OptionSenderOrg,,TF,T,
+,,,,
+NEW CLIENT LETTER,,,,
+OptionNewClient,,TF,F,
+OptionConfirmMeeting,,TF,F,
+OptionCoCounsel,,TF,F,Are co-counsel involved?
+MeetingDate,"March 23, 2025",V,,
+,,,,
+RETAINER LETTER,,,,
+Retainer,"$5,000.00",V,,
+InstallAmount,,V,,
+CoCounselFull,Monika Gargarin,V,,
+,,,,
+HEALTHCARE AGENT LETTER,,,,
+HCAgentNameFull,Pat J. Heron,V,,
+HCAgentRelationship,Spouse,V,,"Spouse, Adult Child, Friend"
+,,,,
+WILL COVER LETTER,,,,
+AttorneysFees,"$1,200.00",V,,
+,,,,
+OUR FIRM,,,,
+OurFirmName,SecureMyFirm Inc.,V,,
+OurFirmAbbr,SecureMyFirm,V,,
+OurFirmAddrOneLine,"3336 Glenhurst Ave, Minneapolis, MN 55416",V,,
+OurFirmCounty,Hennepin,V,,
+OurFirmState,Minnesota,V,,State spelled out
+OurFirmTel,952.922.1120,V,,
+OurFirmSignerFullName,Wells H. Anderson,V,,
+OurFirmSignerTitle,Founder,V,,
+OurFirmWebsite,https://activepractice.com,V,,
+OurFirmSignerEmail,info@securemyfirm.com,V,,
+,,,,
+DURABLE POA,,,,
+AlternateAgent,Jan Silva,V,,
+Choice1Execution,,TF,T,effective upon execution
+Choice2Incapacity,,TF,F,OR effective upon incapacity
+OptionHCDecisions,,TF,T,Health Care Decisions
+OptionNoGifts,,TF,T,no authority to make gifts
+OptionNoWills,,TF,T,no authority to change wills
+OptionCA,,TF,T,California option
+OptionMN,,TF,F,Minnesota option
+OptionNY,,TF,F,New York option
+OptionTX,,TF,F,Texas option
+,,,,
+NON-DISCLOSURE AGMT,,,,
+ConsultantOrg,Active Practice LLC,V,,
+ConsultantFullName,Wells Anderson,V,,
+ConsultantTitle,President,V,,
+ConsultantAddress,"Edina, MN",V,,
+DiscloserOrg,"Silva Development, Inc.",V,,
+DiscloserFullName,Jan Mitchell,V,,
+DiscloserTitle,Chief Executive Officer,V,,
+DiscloserCityState,"Chicago, IL",V,,
+,,,,
+SUBCONTRACT AGMT,,,,
+SubCoName,"Armon Experts, Inc.",V,,
+SubCoAbbr,Armon,V,,
+SubCoAddrOneLine,"945 Industrial Park, Chicago IL 60601",V,,
+SubCoSignerFullName,Jordan Armon,V,,
+SubCoSignerTitle,Vice President,V,,
+Choice1NonExclusive,,TF,T,Non-exclusive
+Choice2Exclusive,,TF,F,OR Exclusive
+,,,,
+WILL – See Will FORM.csv,,,,
+,,,,
+WORK FROM HOME AGMT,,,,
+EmployeeNameFull,Kendall Arbor,V,,
