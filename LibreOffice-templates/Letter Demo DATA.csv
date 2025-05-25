@@ -1,0 +1,12 @@
+Variable,Text,Type,Value,Description
+ClientNameFull,Kim Silva,V,,
+ClientFirst,Kim,V,,
+ClientLast,Silva,V,,
+ClientAddress,1234 Main Street,V,,
+ClientCity,Beverly Hills,V,,
+ClientState,CA,V,,
+ClientZipcode,90210,V,,
+SenderNameFull,Wells H. Anderson,V,,
+,,,,
+Choice1First,,TF,T,First Name
+Choice2MrMsLast,,TF,F,OR Mr/Ms Last Name
