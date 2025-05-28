@@ -213,7 +213,7 @@ def replace_placeholders():
             found.setString("")
             found = doc.findNext(found, search)
 
-def replace_text_in_writer():
+def replace_text_in_writer(event=None):
     """Main function called by LibreOffice. Only proceeds if OK is pressed."""
 
     # Show confirmation dialog
