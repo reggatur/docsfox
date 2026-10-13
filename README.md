@@ -5,16 +5,23 @@ Docsfox is free:
 - Cost-free
 - AI-free
 - Cloud-free
+- Ad-free, nag-free
+
+## Secure, private document createion
+
+Unlike other apps, Docsfox uses **no AI**!
 
 Docsfox is secure and private because it is 100% local.
 
+Client data, templates, editing and creation are on your PC.
+
 ## Document assembly software
 
-Create and fill in templates to create documents
+Create and fill templates to create documents.
 
-Docsfox - Python plugins for LibreOffice Writer and Notepad++
+Docsfox consists of Python plugins for LibreOffice Writer and Notepad++.
 
-Bonus feature: Perform multiple Search and Replace operations
+Bonus feature: Perform multiple Search and Replace operations at once.
 
 [Docsfox Documentation](docs/Docsfox.md)
 
@@ -45,7 +52,7 @@ Docsfox:
 - Installs on Microsoft Windows
 - Works with a range of word processing software
 - Is compatible with:
-  - MS Word, MS 365, Outlook
+  - MS Word, MS 365, Outlook, Google Docs
   - LibreOffice Writer, Notepad++
   - Google Docs, Gmail and more
 - Works with .DOCX, .TXT, .ODT, .HTML, .MD, .CSV and more.
