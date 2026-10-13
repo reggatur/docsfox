@@ -1,5 +1,14 @@
 # Docsfox
-Document assembly software
+## Free document assembly software
+
+Docsfox is free:
+- Cost-free
+- AI-free
+- Cloud-free
+
+Docsfox is secure and private because it is 100% local.
+
+## Document assembly software
 
 Create and fill in templates to create documents
 
