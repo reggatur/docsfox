@@ -165,9 +165,10 @@ def main():
         text = editor.getText()
         updated_text = advanced_replacement(text, tf_rows)
         
-        # Update Notepad++ text
+        # Update Notepad++ text for Advanced Find & Replace of optional text
         editor.setText(updated_text)
-        notepad.messageBox("Advanced Find & Replace completed successfully!", "Success")
+        if tf_rows:
+            notepad.messageBox("Optional text marked T/F processed successfully!", "Success")
     else:
         notepad.messageBox("No valid replacements found in the CSV file.", "Error")
 
